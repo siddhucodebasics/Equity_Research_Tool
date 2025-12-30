@@ -1,0 +1,7 @@
+langchain-openai
+langchain-community
+langchain-classic
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+unstructured
