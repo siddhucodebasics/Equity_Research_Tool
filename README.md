@@ -74,7 +74,7 @@ Equity_Research_Tool/
 
 ## ⚙️ How to Run the Project
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/siddhucodebasics/Equity_Research_Tool.git
 cd Equity_Research_Tool
